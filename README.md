@@ -25,7 +25,16 @@ a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you inst
 
 Getting started with Odoo
 -------------------------
-
+to run this apploiction:-
+cd frontend 
+npm install@latest
+npm run dev
+or yarn install
+yarn build
+for backedn:-
+cd backend 
+pip install pandas
+pip streamlit.
 For a standard installation please follow the <a href="https://www.odoo.com/documentation/17.0/administration/install/install.html">Setup instructions</a>
 from the documentation.
 
